@@ -1,17 +1,6 @@
 # CTF-PaddingOracle
 ---
 
-## **Roteiro**  
-1. Introdução ao tema  
-2. Enunciado do problema  
-3. AES-CBC  
-4. Apresentação da solução  
-5. AES-GCM  
-6. SSL  
-7. Conclusão  
-
----
-
 ## **Enunciado do Problema**  
 Conexão ao serviço vulnerável:  
 `nc crypto.utctf.live 4356`

@@ -111,6 +111,3 @@ A melhor defesa contra esse tipo de ataque é **migrar para AES-GCM** e **adotar
 - [Cloudflare: O que é SSL/TLS?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/)  
 - [UTCTF 2021 - Desafio Delphi](https://github.com/utisss/UTCTF-21/tree/main/crypto-delphi)  
 
----
-
-Se precisar de alguma modificação ou um resumo ainda mais conciso, me avise! 😊

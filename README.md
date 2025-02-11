@@ -26,7 +26,9 @@ ser usada contra sistemas que implementam a cifra AES (Advanced Encryption Stand
 de operação como o CBC (Cipher Block Chaining).
 Esse tipo de ataque explora falhas no processo de verificação de preenchimento (padding) de blocos de dados durante a descriptografia, baseado no padrão PKCS#7. 
 
-O problema Delphi é um exemplo prático de um sistema vulnerável à esse ataque, onde um atacante pode recuperar dados sensíveis sem precisar conhecer a chave de criptografia, apenas manipulando a forma como o padding é verificado e interpretado pelo oracle.
+O problema Delphi é um exemplo prático de um sistema vulnerável à esse ataque, onde um atacante pode recuperar dados sensíveis sem precisar conhecer a chave de criptografia, apenas manipulando a forma como o
+padding é verificado e interpretado pelo oracle.
+
 ---
 
 ## **Como o ataque funciona?**  
